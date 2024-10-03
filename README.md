@@ -46,4 +46,4 @@ In this project, you will work with data from a well-known home rental applicati
   - the similarity of the words which will result from the neighborhood based on the three figures below, i.e. 3 different similarities
   
 
-<img src="https://github.com/user-attachments/assets/d4a3b31f-5830-4515-a618-5726e9ef2c1c" alt="Image svg" width="200"/>
+<img src="https://github.com/user-attachments/assets/d4a3b31f-5830-4515-a618-5726e9ef2c1c" alt="Image svg" width="400"/>
