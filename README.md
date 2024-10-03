@@ -1,4 +1,7 @@
 <img src="https://github.com/user-attachments/assets/a6908861-0da1-4708-9eb9-5efade28f390" alt="Airbnb_Logo_Bélo svg" width="200"/>
+
+
+
 ## Preview 
 In this project, you will work with data from a well-known home rental application (airbnb). Specifically, you are given the data for the Athens area for 3 months in 2019 and 2023. The data is in CSV format, and you will use Python to answer the some questions.
 
